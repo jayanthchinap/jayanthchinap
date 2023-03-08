@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayanthchinap
-- 👀 I’m interested in .....
-- 🌱 I’m currently learning Full Stack Web Development
+- 👀 I’m interested in builting web apps
+- 🌱 I’m currently a software engineer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me jayanthbrahmanapelly9@gmail.com
 
